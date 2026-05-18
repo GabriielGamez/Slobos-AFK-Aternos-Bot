@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "furrosjediondos.aternos.me:37821",
+    "ip": "furrosjediondos.aternos.me",
     "port": 37821,
     "version": "",
     "try-creative": false
